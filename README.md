@@ -1,65 +1,51 @@
-## 🌌 Welcome to My Universe! 🚀
+# 🌌 Welcome to My Universe! 🚀
 
-```diff
-+ Exploring the Frontiers of Technology and Beyond! 🌠
-```
-
-<h1 align="center">Hi there! 👋 I'm Ismail</h1>
-<p align="center">A passionate <strong>Front-End Developer</strong> specializing in <strong>Angular</strong> and futuristic UI/UX design.</p>
+## Hi 👋! I'm Ismail, a Front-End Developer specializing in Angular and modern web technologies.
 
 ---
 
-<h2 align="center">🚀 Technologies I Work With</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,sass,figma,git,github,vscode" alt="Tech Stack" />
-</p>
+### 🪐 About Me
+Passionate about building interactive and visually stunning web applications. I love exploring the latest technologies and bringing ideas to life with beautiful UI/UX.
 
 ---
 
-<h2 align="center">🌠 Cosmic Animation</h2>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/UqZq9mmdwXqNw0yxHv/giphy.gif" width="300" height="200" alt="Space Animation"/>
-</p>
-
----
-
-<h2 align="center">🛸 About Me</h2>
-
-- 🌍 Passionate about futuristic UI designs & animations.
-- 🔭 Constantly exploring new front-end technologies.
-- 💡 Always learning and improving skills.
-- 🎯 Building user-friendly & highly interactive web applications.
+### 🌍 Skills
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="50" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/>
+</div>
 
 ---
 
-<h2 align="center">🚀 Space Projects</h2>
-
-| Project Name | Description |
-|-------------|-------------|
-| **🚀 Galaxy Dashboard** | A futuristic admin panel with animated UI |
-| **🌌 Star Map** | An interactive space-themed data visualization tool |
-| **🛰️ AI Space Assistant** | AI-powered chatbot with cosmic-themed UI |
+### 🛰️ Projects
+- 🚀 **[Project Name]** - A futuristic web app inspired by space exploration.
+- 🌌 **[Project Name]** - A dynamic, interactive UI with planetary animations.
 
 ---
 
-<h2 align="center">📡 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://github.com/IsmailAshraf111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ismailashraf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+### ✨ Animated Solar System (Hover over planets!)
+<div align="center">
+  <img src="https://media.giphy.com/media/QyM0iymPEYxHdhun2J/giphy.gif" width="300" alt="Rotating Planets"/>
+</div>
 
 ---
 
-<h2 align="center">✨ Fun Fact</h2>
-
-```js
-const funFact = "There’s a giant cloud of alcohol in space 🍷!";
-console.log(funFact);
-```
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmailAshraf111&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailAshraf111&theme=dracula" height="150" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🌟 Thank You for Visiting! Keep Exploring the Universe! 🚀✨
+### 🌠 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ismailashraf111/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/ismailashraf111)
+
+---
+
+*🚀 Keep looking up at the stars and keep coding! 💻✨*
