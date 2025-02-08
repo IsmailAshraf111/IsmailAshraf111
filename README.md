@@ -22,7 +22,7 @@ Completed MEAN Stack Development Track
 
 
 ## 💻 Tech Interests
-I have a deep passion for **game development**. Living in Japan, the heartland of companies like Nintendo, Sony, and Capcom, fuels my inspiration every day. I'm dedicated to mastering the art and science of creating engaging, immersive gaming experiences.
+I have a strong passion for cybersecurity and ethical hacking. I enjoy exploring different security concepts, understanding how systems can be protected, and learning about the latest threats and vulnerabilities. My focus is on improving my skills in penetration testing, threat intelligence, and security automation to stay ahead in the field.
 
 ## 🎮 Why Game Development?
 The creativity and technology behind games fascinate me. From storyline crafting to character development and programming, each aspect of game development provides a canvas to innovate and entertain.
