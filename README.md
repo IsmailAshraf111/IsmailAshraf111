@@ -27,14 +27,36 @@ Passionate about building interactive and visually stunning web applications. I 
 
 ---
 
-### ✨ Animated Solar System (Hover over planets!)
+### ✨ Animated Solar System (Real 3D Planets!)
 <div align="center">
-  <img src="https://media.giphy.com/media/QyM0iymPEYxHdhun2J/giphy.gif" width="300" alt="Rotating Planets"/>
+  <canvas id="solar-system"></canvas>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script>
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ alpha: true });
+    renderer.setSize(300, 300);
+    document.getElementById("solar-system").appendChild(renderer.domElement);
+    
+    const geometry = new THREE.SphereGeometry(2, 32, 32);
+    const material = new THREE.MeshBasicMaterial({ map: new THREE.TextureLoader().load('https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg') });
+    const planet = new THREE.Mesh(geometry, material);
+    scene.add(planet);
+    
+    camera.position.z = 5;
+    
+    function animate() {
+      requestAnimationFrame(animate);
+      planet.rotation.y += 0.01;
+      renderer.render(scene, camera);
+    }
+    animate();
+  </script>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 💊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsmailAshraf111&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailAshraf111&theme=dracula" height="150" alt="GitHub Streak" />
