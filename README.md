@@ -39,8 +39,9 @@ I also have a **strong interest in cybersecurity**, having participated in the *
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmailAshraf111&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailAshraf111&theme=dracula" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmailAshraf111&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailAshraf111&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsmailAshraf111&theme=radical" height="180" alt="GitHub Profile Summary" />
 </div>
 
 ---
