@@ -21,37 +21,17 @@ Passionate about building interactive and visually stunning web applications. I 
 
 ---
 
-### 🛰️ Projects
-- 🚀 **[Project Name]** - A futuristic web app inspired by space exploration.
-- 🌌 **[Project Name]** - A dynamic, interactive UI with planetary animations.
+### 🛠️ Projects
+- 🚀 **Space Explorer** - A futuristic web app inspired by space exploration.
+- 🌌 **Galaxy UI** - A dynamic, interactive UI with planetary animations.
+- 🌟 **Nebula Dashboard** - A sleek admin dashboard for monitoring cosmic data.
 
 ---
 
-### ✨ Animated Solar System (Real 3D Planets!)
+### ✨ Animated Solar System (Preview)
 <div align="center">
-  <canvas id="solar-system"></canvas>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-  <script>
-    const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-    const renderer = new THREE.WebGLRenderer({ alpha: true });
-    renderer.setSize(300, 300);
-    document.getElementById("solar-system").appendChild(renderer.domElement);
-    
-    const geometry = new THREE.SphereGeometry(2, 32, 32);
-    const material = new THREE.MeshBasicMaterial({ map: new THREE.TextureLoader().load('https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg') });
-    const planet = new THREE.Mesh(geometry, material);
-    scene.add(planet);
-    
-    camera.position.z = 5;
-    
-    function animate() {
-      requestAnimationFrame(animate);
-      planet.rotation.y += 0.01;
-      renderer.render(scene, camera);
-    }
-    animate();
-  </script>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" height="200" alt="Solar System Animation"/>
+  <p>Check out my interactive solar system <a href="https://my-solar-system-demo.com">here</a>! 🌟</p>
 </div>
 
 ---
