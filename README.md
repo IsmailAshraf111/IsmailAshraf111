@@ -6,7 +6,11 @@
 
 
 ## 🌍 About Me
-I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to the enchanting Rafflesia flowers, intriguing proboscis monkeys, and majestic orangutans. Now, I'm immersing myself in the world of Computer Science as a Master's student at University of Aizu in Japan.
+I am a passionate Front-End Developer specializing in Angular and modern web technologies. I have successfully completed the MEAN Stack track at NTI, where I gained hands-on experience in building full-stack applications.
+
+I enjoy creating dynamic, interactive, and visually stunning web applications, always eager to explore the latest technologies and bring innovative ideas to life. 🚀
+
+
 
 ## 🎓 Education
 - **Bachelor's Degree in Engineering, Major in E-Commerce**  
