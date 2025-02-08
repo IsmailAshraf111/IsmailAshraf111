@@ -13,12 +13,13 @@ I enjoy creating dynamic, interactive, and visually stunning web applications, a
 
 
 ## 🎓 Education
-- **Bachelor's Degree in Engineering, Major in E-Commerce**  
-  Northwestern Polytechnical University, China
-- **Japanese Language Studies**  
-  1.5 years at a Language School in Tokyo, Japan
-- **Master's student in Computer Science**  
-  University of Aizu, Japan
+Higher Institute of Administrative Sciences - Katameya (HIMS)
+Bachelor’s Degree in Management Information Systems
+
+National Telecommunication Institute (NTI)
+Completed MEAN Stack Development Track
+
+
 
 ## 💻 Tech Interests
 I have a deep passion for **game development**. Living in Japan, the heartland of companies like Nintendo, Sony, and Capcom, fuels my inspiration every day. I'm dedicated to mastering the art and science of creating engaging, immersive gaming experiences.
